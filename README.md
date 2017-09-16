@@ -7,7 +7,7 @@ R과 Python으로 데이터를 분석, 비지니스 인사이트를 도출합니
 ### Data Mining
 ### EDA Visualization
 ### DB Marketing
-- RFM exercise
+# RFM exercise
 
 ------------------------------------------------
 
