@@ -10,5 +10,5 @@ R과 Python으로 데이터를 분석, 비지니스 인사이트를 도출합니
 ### DB Marketing
 [1. RFM exercise](https://github.com/lee-kyubong/data-analytics/tree/master/RFM_exercise)
 
-------------------------------------------------
 
+------------------------------------------------
