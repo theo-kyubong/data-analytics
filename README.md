@@ -1,5 +1,4 @@
 # 서울대학교 빅데이터연구원 4차산업혁명 <br/> 아카데미 비즈니스 애널리틱스 과정 포트폴리오
------------
 ## 1. [교육 내용 소개](https://github.com/lee-kyubong/data-analytics/blob/master/course_syllabus/BA1.jpg) [[자세히 보기]](https://github.com/lee-kyubong/data-analytics/blob/master/course_syllabus/BA1.jpg)
 ## 2. 대표 분석 수행물
 ### 캡스톤 프로젝트 (기업 현장에서 데이터 분석 수행)
@@ -25,7 +24,7 @@
 - 네이버 Open API를 활용해 블로그 서비스 내 게시물 크롤링
 - R 패키지(tm, KoNLP)를 활용해 텍스트 데이터 전처리
 - Graphical Lasso 알고리즘을 통해 해당 과자 내 주요 키워드 간 상관관계 파악
-> \- 필요한 데이터의 수집부터 정제, 분석 전체 과정을 수행
+> \- 필요한 데이터의 수집부터 정제, 분석 전체 과정을 수행 <br/>
 > \- 분석결과를 통해 '전통적 과자'와 'PB 과자'에 대한 대중들의 인식 파악 / 강점은 계승하고 단점은 극복할 마케팅 방안 제시
 
 ### DB Marketing
