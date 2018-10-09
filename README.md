@@ -1,4 +1,4 @@
-# 서울대학교 빅데이터연구원 4차산업혁명 아카데미<br/>  비즈니스 애널리틱스 과정 포트폴리오
+# 서울대학교 빅데이터연구원 4차산업혁명 아카데미<br/>  비즈니스 애널리틱스 과정 포트폴리오 (2017.06 ~ 2018.02)
 ## 1. [교육 내용 소개](https://github.com/lee-kyubong/data-analytics/blob/master/course_syllabus/BA1.jpg) [[자세히 보기]](https://github.com/lee-kyubong/data-analytics/blob/master/course_syllabus/BA1.jpg)
 ## 2. 대표 분석 수행물
 ### 캡스톤 프로젝트 (기업 현장에서 데이터 분석 수행)
