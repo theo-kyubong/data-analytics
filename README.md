@@ -1,8 +1,9 @@
-# 서울대학교 빅데이터연구원 4차산업혁명 아카데미<br/>  비즈니스 애널리틱스 과정 포트폴리오 (2017.06 ~ 2018.02)
-## 1. [교육 내용 소개](https://github.com/lee-kyubong/data-analytics/blob/master/course_syllabus/BA1.jpg) [[자세히 보기]](https://github.com/lee-kyubong/data-analytics/blob/master/course_syllabus/BA1.jpg)
-## 2. 대표 분석 수행물
-### 캡스톤 프로젝트 (기업 현장에서 데이터 분석 수행)
-[* KB생명보험:  FC 채널 고능률화를 위한 설계사 맞춤형 관리방안 제시 [비지니스 인사이트 도출, 클러스터링]](https://github.com/lee-kyubong/data-analytics/blob/master/KBL/KBL_summarizedreport.pdf) [[자세히 보기]](https://github.com/lee-kyubong/data-analytics/blob/master/KBL/KBL_summarizedreport.pdf)
+# Seoul National University Big Data Institute 4th Industrial Revolution AcademyBusiness Analytics Course Portfolio (2017.06 ~ 2018.02)
+
+## Introduction to the Education Program [See more](https://github.com/lee-kyubong/data-analytics/blob/master/course_syllabus/BA1.jpg)
+## 2. Representative Analytical Projects
+### Capstone Project (Data Analysis in Corporate Setting)
+KB Life Insurance: Designing Customized Management Approaches for FC Channel Efficiency Enhancement [Business Insights, Clustering] [See more](https://github.com/lee-kyubong/data-analytics/blob/master/KBL/KBL_summarizedreport.pdf) [[자세히 보기]](https://github.com/lee-kyubong/data-analytics/blob/master/KBL/KBL_summarizedreport.pdf)
 - 주요 판매채널(FC, GA, TA) 관리자 인터뷰를 통한 보험 도메인 지식 습득 / '고능률 설계사'를 정의내릴 지표 선정
 - 분석 테이블 구축을 위해 정산관리용 데이터로부터 변수 생성 작업
 - 회귀분석을 통한 유의변수(지표)를 추려내고, 이를 기반으로 클러스터링 수행 (R 활용)
