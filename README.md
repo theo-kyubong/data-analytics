@@ -1,7 +1,7 @@
 # Seoul National University Big Data Institute 4th Industrial Revolution AcademyBusiness Analytics Course Portfolio (2017.06 ~ 2018.02)
 
 ## Introduction to the Education Program [See more](https://github.com/lee-kyubong/data-analytics/blob/master/course_syllabus/BA1.jpg)
-## 2. Representative Analytical Projects
+## Representative Analytical Projects
 ### Capstone Project (Data Analysis in Corporate Setting)
 [* KB Life Insurance: Designing Customized Management Approaches for FC Channel Efficiency Enhancement (Business Insights, Clustering)](https://github.com/lee-kyubong/data-analytics/blob/master/KBL/KBL_summarizedreport.pdf)
 - Acquiring insurance domain knowledge through interviews with key sales channel managers (FC, GA, TA)
