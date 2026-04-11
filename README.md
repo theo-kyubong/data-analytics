@@ -1,4 +1,4 @@
-# Seoul National University Big Data Institute 4th Industrial Revolution AcademyBusiness Analytics Course Portfolio (2017.06 ~ 2018.02)
+# Seoul National University Big Data Institute 4th Industrial Revolution Academy Business Analytics Course Portfolio (2017.06 ~ 2018.02)
 
 ## Introduction to the Education Program [See more](https://github.com/lee-kyubong/data-analytics/blob/master/course_syllabus/BA1.jpg)
 ## Representative Analytical Projects
